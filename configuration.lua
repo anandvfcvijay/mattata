@@ -34,7 +34,7 @@ local get_plugins = function(extension, directory)
 end
 
 return { -- Rename this file to configuration.lua for the bot to work!
-    ['bot_token'] = '', -- In order for the bot to actually work, you MUST insert the Telegram
+    ['bot_token'] ='859122472:AAFf2W_TBwDGMA3KNkZXCSNqDPr_OkLOG6w', -- In order for the bot to actually work, you MUST insert the Telegram
     -- bot API token you received from @BotFather.
     -- The following two tokens will require you to have setup payments with @BotFather, and
     -- a Stripe account with @stripe!
